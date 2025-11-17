@@ -1,2 +1,1 @@
-# Salon-Management-System
-Designed a web-based salon booking system with client-stylist appointment and review management.
+The system allows customers to register, browse available services, select stylists, book appointments, and make payments online. Salon owners can manage appointments, staff details, customer records, services, pricing, billing, and generate reports through an admin dashboard.The system replaces manual diary-based booking, reduces waiting time, eliminates scheduling errors, and improves customer experience# Salon-Management-System Designed a web-based salon booking system with client-stylist appointment and review management.
